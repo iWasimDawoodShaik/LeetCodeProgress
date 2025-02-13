@@ -5,5 +5,5 @@ Trying to solve 100 leetcode problems
 #
 ## Progres Tracker
 
-### Date : Feb - 05 
-### Problem Count : 0
+### Date : Feb - 12 
+### Problem Count : 8
