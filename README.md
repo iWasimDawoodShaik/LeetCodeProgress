@@ -1,9 +1,15 @@
 # LeetCodeProgress
-*Date* : **Feb-05-2025**
+*Date* : **Nov-8-2025**
+## LeetCode Link : [wasimdawoodshaik](https://leetcode.com/u/wasimdawoodshaik/)
 #
-Trying to solve 100 leetcode problems
+Trying to solve 500 leetcode problems
 #
-## Progres Tracker
+## Progress Tracker
 
 ### Date : Feb - 12 
 ### Problem Count : 11
+
+## Progress Tracker
+
+### Date : Nov - 8
+### Problem Count : 202
